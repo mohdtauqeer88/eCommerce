@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>My Shop</title>
-<link rel="stylesheet" type="text/css" href="styles/style.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="all"/>
 </head>
   <body>     
 	 
